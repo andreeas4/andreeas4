@@ -8,7 +8,7 @@
 🛠️ Tech Stack:
 - 💻 C#, ASP.NET, Blazor Server
 - 🛢️ SQL, PL/SQL, Entity Framework Core
-- 🎨 WinForms, HTML/CSS, Bootstrap
+- 🎨 WinForms, HTML/CSS
 - 🧠 Python (genetic algorithms, linear regression)
 
 <!-- Optional GitHub Stats Section -->
