@@ -6,7 +6,7 @@
 🌍 Fluent in Romanian and English
 
 🛠️ Tech Stack:
-- 💻 C#, ASP.NET, Blazor Server, Python, R, Js
+- 💻 C#, ASP.NET, Blazor Server, Js
 - 🛢️ SQL, PL/SQL, Entity Framework Core
 - 🎨 WinForms, HTML/CSS
 - 🧠 Python (genetic algorithms, linear regression)
