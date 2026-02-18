@@ -11,6 +11,4 @@
 - 🎨 WinForms, HTML/CSS
 - 🧠 Python (genetic algorithms, linear regression)
 
-<!-- Optional GitHub Stats Section -->
-📈 GitHub Stats:
-![Andreea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreeas4&show_icons=true&theme=radical)
+
